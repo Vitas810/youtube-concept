@@ -1,2 +1,2 @@
 # youtube-concept
-Учебный проект youtube
+Учебный проект  Glo Academy
